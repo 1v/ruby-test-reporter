@@ -1,6 +1,7 @@
 # codeclimate-test-reporter
 
 [![Code Climate](https://codeclimate.com/github/codeclimate/ruby-test-reporter/badges/gpa.svg)](https://codeclimate.com/github/codeclimate/ruby-test-reporter)
+[![Build Status](https://travis-ci.org/1v/ruby-test-reporter.svg?branch=master)](https://travis-ci.org/1v/ruby-test-reporter)
 
 Posts SimpleCov test coverage data from your Ruby test suite to Code Climate's
 hosted, automated code review service.
